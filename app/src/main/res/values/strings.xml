@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dog Tracker</string>
+    <string name="title_home">Locatia curenta</string>
+    <string name="title_maps">Harta</string>
+
+    <string name="google_maps_key">REPLACE-ME</string>
+</resources>
